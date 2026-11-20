@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+# Hi, I'm Sridhar 👋
+
+## About Me
+- 🌱 I'm currently learning Git and version control
+- 💻 I'm interested in Backend Development, System Design
+- 📫 How to reach me: sridharkumard95@gmail.com
+
+## Projects
+- [git-learning-log](https://github.com/dsridharkumar95/git-learning-log) - My first Git project tracking a learning log
+
 <!--
 **dsridharkumar95/dsridharkumar95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
